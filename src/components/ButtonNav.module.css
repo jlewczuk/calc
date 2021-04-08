@@ -1,0 +1,14 @@
+.buttonNav{
+    display: flex;
+    height: 4em;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 1.4em;
+    background-color: #c5c3cd;
+    color: #888;
+    outline: 1px solid #888;
+    width: 300px;
+    margin-bottom: 50px;
+}
